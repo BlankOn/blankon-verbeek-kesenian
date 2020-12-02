@@ -1,12 +1,12 @@
 # BlankOn Verbeek Kesenian
 
-Repository ini berisikan item-item kesenian untuk BlankOn Linux dengan codename Verbeek. 
+Repository ini berisikan item-item kesenian untuk BlankOn Linux dengan codename Verbeek.
 
 
 
 ## Daftar Tugas Materi-materi kesenian yang dikerjakan oleh Tim Kesenian
 
-Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki saran/usulan materi yang sekiranya membutuhkan bantuan Tim Kesenian, silakan untuk membuat sebuah tiket melalui tautan ini: [Tiket Tim Kesenian](https://github.com/BlankOn/blankon-verbeek-kesenian/issues). Harap untuk dipahami di awal, Tim Kesenian BlankOn bekerja secara sukarela, oleh karena itu tidak ada jaminan kepastian bahwa tiket yang Anda buka akan dikerjakan seketika.
+Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki saran/usulan materi yang sekiranya membutuhkan bantuan Tim Kesenian, silakan untuk membuat sebuah tiket dengan label `Kesenian` melalui tautan ini: [Tiket Tim Kesenian](https://github.com/BlankOn/verbeek/issues). Harap untuk dipahami di awal, Tim Kesenian BlankOn bekerja secara sukarela, oleh karena itu tidak ada jaminan kepastian bahwa tiket yang Anda buka akan dikerjakan seketika.
 
 ### Materi Kesenian Umum
 
@@ -21,18 +21,18 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 - [ ] Gambar latar tambahan (kurang lebih 10 gambar)
 
 - [ ] Rebranding Aplikasi
-  
+
   - [ ] Splash LibreOffice
-  
+
   - [ ] Inkscape About
-  
+
   - [ ] Splash Gimp
-  
+
   - [ ] Splash Scribus
-  
+
   - [ ] Halaman Tes Cetak
 
-- [ ] Animasi Plymouth (login splash) 
+- [ ] Animasi Plymouth (login splash)
 
 - [ ] Latar belakang GRUB2
 
@@ -51,13 +51,13 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 ### Materi Kesenian Media Promosi
 
 - [ ] Banner media sosial
-  
+
   - [ ] Youtube
-  
+
   - [ ] Facebook
-  
+
   - [ ] Twitter
-  
+
   - [ ] Lain-lain
 
 - [ ] Brosur promosi luring
@@ -67,21 +67,21 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 - [ ] Templat Presentasi
 
 - [ ] Cendera mata/suvenir
-  
+
   - [ ] Mug
-  
+
   - [ ] Kaos
-  
+
   - [ ] Sepatu
-  
+
   - [ ] Kemeja
-  
+
   - [ ] Tumblr
-  
+
   - [ ] Gantungan Kunci
-  
+
   - [ ] Stiker
-  
+
   - [ ] Tas
 
 - [ ] Lain-lain
@@ -92,7 +92,7 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 
 Pengembangan BlankOn Linux terbuka untuk siapa saja. Silakan ajukan Pull Request karya/materi desain Anda ke repositori ini. Pastikan lokasi berkas yang Anda buat disimpan pada direktori/folder yang sesuai untuk mempermudah pencarian. Silakan untuk membuat sebuah folder dengan nama/*nick* Anda pada masing-masing direktori untuk menyimpan karya yang Anda ingin sumbangkan.
 
-Jika tertarik untuk terlibat sebagai pengembang, silakan untuk menghubungi kordinator [Tim Kesenian](https://github.com/BlankOn/Verbeek/blob/master/TEAM.md#kesenian). 
+Jika tertarik untuk terlibat sebagai pengembang, silakan untuk menghubungi kordinator [Tim Kesenian](https://github.com/BlankOn/Verbeek/blob/master/TEAM.md#kesenian).
 
 
 
