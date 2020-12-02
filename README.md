@@ -4,17 +4,17 @@ Repository ini berisikan item-item kesenian untuk BlankOn Linux dengan codename 
 
 
 
-## Materi-materi desain yang Dikerjakan oleh Tim Kesenian
+## Daftar Tugas Materi-materi kesenian yang dikerjakan oleh Tim Kesenian
 
 Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki saran/usulan materi yang sekiranya membutuhkan bantuan Tim Kesenian, silakan untuk membuat sebuah tiket melalui tautan ini: [Tiket Tim Kesenian](https://github.com/BlankOn/blankon-verbeek-kesenian/issues). Harap untuk dipahami di awal, Tim Kesenian BlankOn bekerja secara sukarela, oleh karena itu tidak ada jaminan kepastian bahwa tiket yang Anda buka akan dikerjakan seketika.
 
-### Komponen Umum
+### Materi Kesenian Umum
 
 - [ ] Palet warna desain
 
 - [ ] Fonta khas
 
-### Komponen Distro
+### Materi Kesenian Distro
 
 - [ ] Gambar latar utama
 
@@ -40,7 +40,7 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 
 - [ ] Tampilan Desktop (?)
 
-### Komponen Situs
+### Materi Kesenian Situs
 
 - [ ] Mockup BlankOn di perangkat
 
@@ -48,7 +48,7 @@ Daftar materi-materi desain berikut ini tidak bersifat final. Jika Anda memiliki
 
 - [ ] Desain UI untuk halaman tertentu bila dibutuhkan
 
-### Media Promosi
+### Materi Kesenian Media Promosi
 
 - [ ] Banner media sosial
   
