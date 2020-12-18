@@ -1,0 +1,83 @@
+GIMP Palette
+Name: BlankOn Palette
+#
+ 89  89  89	Batu 1
+106 106 106	Batu 2
+123 123 123	Batu 3
+140 140 140	Batu 4
+157 157 157	Batu 5
+174 174 174	Batu 6
+191 191 191	Batu 7
+208 208 208	Batu 8
+225 225 225	Batu 9
+243 243 243	Batu 10
+  7  93 188	Langit 1
+ 28 113 207	Langit 2
+ 50 128 213	Langit 3
+ 72 142 219	Langit 4
+ 94 155 225	Langit 5
+116 170 231	Langit 6
+138 184 237	Langit 7
+160 198 243	Langit 8
+182 212 249	Langit 9
+204 226 255	Langit 10
+  0 187 236	Laut 1
+ 25 207 255	Laut 2
+ 51 212 255	Laut 3
+ 77 218 255	Laut 4
+103 223 255	Laut 5
+128 228 255	Laut 5
+154 234 255	Laut 7
+180 239 255	Laut 8
+206 244 255	Laut 9
+232 250 255	Laut 10
+135   0 227	Lavender 1
+161  22 255	Lavender 2
+170  45 255	Lavender 3
+179  68 255	Lavender 4
+188  90 255	Lavender 5
+197 113 255	Lavender 6
+206 136 255	Lavender 7
+215 158 255	Lavender 8
+224 181 255	Lavender 9
+234 204 255	Lavender 10
+200  64  46	Api 1
+212  88  72	Api 2
+217 107  93	Api 3
+222 126 113	Api 4
+227 145 134	Api 5
+231 163 154	Api 6
+236 182 175	Api 7
+241 201 195	Api 8
+246 220 216	Api 9
+251 239 237	Api 10
+255 122   0	Senja 1
+255 133  23	Senja 2
+255 145  46	Senja 3
+255 157  69	Senja 4
+255 169  92	Senja 5
+255 181 115	Senja 6
+255 193 138	Senja 7
+255 205 161	Senja 8
+255 217 184	Senja 9
+255 229 207	Senja 10
+254 187   0	Surya 1
+255 196  27	Surya 2
+255 205  64	Surya 3
+255 211  84	Surya 4
+255 216 104	Surya 5
+255 221 124	Surya 6
+255 227 144	Surya 7
+255 232 164	Surya 8
+255 237 184	Surya 9
+255 243 205	Surya 10
+  0 193  94	Daun 1
+ 22 210 114	Daun 2
+ 45 216 128	Daun 3
+ 68 221 143	Daun 4
+ 90 227 157	Daun 5
+113 232 171	Daun 6
+136 238 186	Daun 7
+158 243 200	Daun 8
+181 249 214	Daun 9
+204 255 228	Daun 10
